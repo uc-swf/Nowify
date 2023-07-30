@@ -8,7 +8,7 @@ html, body {
   font-family: var(--font-body);
   font-size: var(--font-size-base);
   font-weight: var(--font-weight-body);
-  height: 50%;
+  height: 100%;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -21,7 +21,7 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #2c3e50;
-  height: 100vh;
+  height: 50vh;
   margin: 0;
   padding: 0;
   width: 100vw;
